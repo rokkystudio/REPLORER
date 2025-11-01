@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="files/icon.png" alt="Replorer icon" width="128">
+</p>
+
 # Replorer
 Утилита для быстрого перезапуска Windows Explorer помогает в случае проблем и глюков с миниатюрами фотографий, видеофайлов и иконок программ.
 
