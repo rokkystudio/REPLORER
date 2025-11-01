@@ -41,4 +41,30 @@
 
 ---
 
+## Поисковые фразы (ключевые слова)
+
+**Русский:**
+- Не обновляются миниатюры фото в Проводнике Windows.
+- Иконки программ отображаются неправильно в Windows 10/11.
+- Как перезапустить проводник без перезагрузки.
+- Сломались превью видео в Проводнике — что делать.
+- Как быстро обновить кэш миниатюр в Windows.
+- Панель задач зависла — как перезапустить explorer.exe.
+- Проводник открывает «Быстрый доступ» — как исправить.
+- После установки/копирования пропали иконки — как восстановить.
+- Проводник подвисает при открытии папок — решение.
+- Восстановить открытые папки после перезапуска Проводника.
+
+**English:**
+- Thumbnails not updating in Windows Explorer.
+- Program icons display wrong in Windows 10/11.
+- How to restart explorer.exe without reboot.
+- Video previews broken in File Explorer.
+- Fast way to refresh thumbnail cache on Windows.
+- Taskbar is frozen — restart Windows Explorer.
+- File Explorer opens Quick Access/This PC — how to fix.
+- Icons disappeared after install/copy — how to restore.
+- File Explorer hangs when opening folders — solution.
+- Restore previously opened folders after Explorer restart.
+
 © 2025 ROKKYSTUDIO • Replorer
